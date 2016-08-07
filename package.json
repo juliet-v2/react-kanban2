@@ -1,8 +1,8 @@
 {
   "name": "react-kanban2",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "kanan",
+  "main": "App.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hyeyoungkang/react-kanban2.git"
@@ -25,6 +25,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "marked": "^0.3.6",
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
   }
